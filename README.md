@@ -1,4 +1,4 @@
-## DescriptionAdd comment More actions
+## Water Level Indicator
 The Water Level Indicator is a project that uses a water level sensor and an Arduino Uno to monitor the water level in a tank. When the water level changes, the sensor sends a signal to the Arduino, which then processes the data and indicates the water level.
 
 ## Materials Required
