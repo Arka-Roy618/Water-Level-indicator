@@ -93,8 +93,8 @@ int readSensor() {
 	val = analogRead(sensorPin);		// Read the analog value form sensor
 	digitalWrite(sensorPower, LOW);		// Turn the sensor OFF
 	return val;							// send current reading
-}
-
+}...
+## Applications
 - *Aquariums:* Maintain the water level in aquariums to ensure a stable environment for aquatic life.
 - *Irrigation Systems:* Automate irrigation systems based on the water level in storage tanks.
 - *Flood Detection:* Detect and alert in case of potential flooding scenarios.
