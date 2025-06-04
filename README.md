@@ -60,7 +60,6 @@ The water level sensor changes its output voltage based on the water level. The 
 3. *Indicating the Water Level*: Based on the processed value, the Arduino can indicate the water level through various means (e.g., serial monitor, LEDs, etc.).
 
 ## Arduino IDE Code
-cpp
 // Sensor pins
 #define sensorPower 7
 #define sensorPin A0
